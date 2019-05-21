@@ -23,6 +23,7 @@ public class Arumi_1 {
 		System.out.println();
 		System.out.println();
 		System.out.println();
+		sub("Arumi");
 		System.out.println(a);
 		
 	}
